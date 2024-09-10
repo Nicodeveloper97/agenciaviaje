@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-
+import {FaStar } from 'react-icons/fa';
 // Definir la interfaz para los props de TestimonialCard
 interface TestimonialCardProps {
   name: string;
